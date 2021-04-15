@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: windows-latest
+pool: ASP Agent
 
 variables:
   phpVersion: 7.2
